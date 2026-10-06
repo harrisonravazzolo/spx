@@ -12,6 +12,10 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 org_settings:
+  webhook_settings:
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://webhook.site/c1cae90f-a23c-4826-9b61-076c9380d2e0
   fleet_desktop:
     transparency_url: https://pointerpointer.com
   org_info:
