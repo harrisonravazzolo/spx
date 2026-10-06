@@ -193,3 +193,7 @@ software:
 
   app_store_apps: # Apps to install via VPP from the macOS App Store, if any
     # …
+labels:
+  - name: test
+    label_membership_type: manual
+    description: hey
